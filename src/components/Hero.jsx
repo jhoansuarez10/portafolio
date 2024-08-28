@@ -22,11 +22,11 @@ const Hero = () => {
                             transition={{ duration: 0.5 }}
                             className="text-[#915EFF]"
                         >
-                            Andres Buendia
+                            Jhoan Buendia
                         </motion.span>
                     </h1>
                     <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-                        Ingeniero de Software | Desarrollador Front End
+                        Diseñador Grafico | Gestion de contenido grafico
                     </p>
                     <div className="flex sm:flex-row mt-7">
                         <a
